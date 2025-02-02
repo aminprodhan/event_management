@@ -1,0 +1,14 @@
+.home{
+    height: '100%';
+    width: '100%';
+    margin:0;
+    padding:0;
+}
+.margin_null{
+    margin:0;padding:0;
+}
+.full_width {
+    box-sizing: border-box;
+    width: 100vw;
+    overflow-x: hidden;
+}
