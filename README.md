@@ -29,7 +29,7 @@ git clone https://github.com/aminprodhan/event_management.git
 cd event_management
 
 # Update environment variables
-# Change the value of VITE_API_URL in the .env file to match your server API
+Change the value of VITE_API_URL in the .env file to match your server API
 
 # Install dependencies
 npm install
